@@ -1,5 +1,6 @@
 <h2> Hi, I'm Valentin*! <img src="https://media.giphy.com/media/3o7bu4VWtdC0KM5C5q/giphy.gif" width="50"></h2>
 <h4>A little more about me...</h4>
+
 ```javascript
 const valix93 = {
   pronouns: "he" | "him",
