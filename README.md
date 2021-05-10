@@ -1,5 +1,5 @@
 <h2> Hi, I'm Valentin*! <img src="https://media.giphy.com/media/3o7bu4VWtdC0KM5C5q/giphy.gif" width="50"></h2>
-<p align="center"><img src="https://user-images.githubusercontent.com/20725151/117655227-137bf180-b197-11eb-9e46-0ae593c31fc4.png" alt="Valix93" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20725151/117655227-137bf180-b197-11eb-9e46-0ae593c31fc4.png" alt="Valix93" width="400" ></p>
 
 <h4>A little more about me...</h4>
 
