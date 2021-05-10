@@ -5,7 +5,7 @@
 const valix93 = {
   pronouns: "he" | "him",
   code: [Java, Kotlin, Python, Php, Javascript, Html, Css],
-  tools: [Node, Docker],
+  tools: [Node, Docker]
 }
 ```
 <!--
